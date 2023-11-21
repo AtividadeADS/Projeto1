@@ -44,7 +44,8 @@
 -
 </p>
 
-O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educação, ajudar na transformação de vidas e inclusão social de crianças, adolescentes e jovens de comunidades vulneráveis. Com a visão de resgatar sonhos e restabelecer a esperança de crianças, adolescentes e jovens em situação de vulnerabilidade, afim de oferecer-lhes um presente mais digno e um futuro mais promissor.
+O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educação, ajudar na transformação de vidas e inclusão social de crianças, adolescentes e jovens de comunidades vulneráveis. Com a visão de resgatar sonhos e restabelecer a esperança de crianças, adolescentes e jovens em situação de vulnerabilidade, afim de oferecer-lhes um presente mais digno e um futuro mais promissor. <br>
+Tendo esses motivos em vista, a aplicação produzida possui o objetivo de maximizar a disseminação de informações referentes ao projeto social, fazendo com que o mesmo possa alcançar uma maior visibilidade e fundos em prol da causa.
 
 
 ## 🛠️ Desenvolvimento
@@ -71,9 +72,8 @@ O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educa�
 <a href="https://www.figma.com/file/4tmVlAvAYSVIkPdUMiU1Ph/Prot%C3%B3tipo-100X%2B?type=design&node-id=322-104&mode=design&t=qjlBxHsj15hDznlc-0">Protótipo</a>
 <br>
 <a href="https://www.figma.com/file/NftgAU3DyKo483b8sWWfc1/Wireframe-Cem-Vezes-Mais?type=design&node-id=0-1&mode=design&t=yMRMjLfpaybSV5wA-0">Wireframe</a>
-
-
-- Design System.
+<br>
+<a href="https://drive.google.com/file/d/1dA7Nr2WhBEhJ9HYHmDwndE8d373P7Ljg/view?usp=sharing">Design System</a>
 
 
 ## 💻 Configuração para Desenvolvimento
@@ -130,31 +130,14 @@ node app.js
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+  &emsp;|-->Design System.pdf<br>
+  &emsp;|-->GRUPO 09 - Projetos de Extensão.pdf<br>
+  &emsp;|-->PI_CemVezesMais.pdf<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 📋 Licença/License
 
@@ -163,7 +146,12 @@ Há também 4 pastas que seguem da seguinte forma:
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
+1. <https://www.npmjs.com/package/express>
+2. <https://www.npmjs.com/package/handlebars-layouts>
+3. <https://www.npmjs.com/package/bcrypt>
+4. <https://www.npmjs.com/package/cookie-parser>
+5. <https://www.npmjs.com/package/jsonwebtoken>
+6. <https://www.npmjs.com/package/path>
+7. <https://docs.docker.com/get-started/overview/>
+8. <https://www.w3schools.com/mysql/mysql_sql.asp>
 
